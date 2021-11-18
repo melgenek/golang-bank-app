@@ -1,0 +1,3 @@
+port: 8000
+postgres:
+  uri: "postgres://demo:demo@localhost/bank?sslmode=disable"
